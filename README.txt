@@ -8,5 +8,3 @@ edit from local
 
 Added feature 1
 Added feature 2
-
-Added feature 1 again
